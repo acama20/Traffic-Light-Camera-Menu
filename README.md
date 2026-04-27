@@ -82,3 +82,7 @@ Optional visualization
 8. Compare Violations
 
 Compare red light vs speed violations across an entire year.
+
+
+DEMO VIDEO: 
+https://drive.google.com/file/d/1tlwL1xcDG_L2HROlbZ315XM7MnqI1Tkb/view?usp=sharing
