@@ -13,7 +13,10 @@ Red light and speed camera locations
 Traffic violations over time
 Trends by year, month, and location
 Visualizations of violations and camera locations
-🛠️ Technologies Used
+
+---------------------------------------------------------------
+
+Technologies Used
 Python 3
 SQLite (sqlite3)
 Matplotlib (for data visualization)
