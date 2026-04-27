@@ -37,8 +37,10 @@ How to Run
 Make sure you have Python installed. Then install matplotlib:
 
 pip install matplotlib
+
 2. Run the Program
 python main.py
+
 3. Required Files
 
 Make sure these files are in the same directory:
